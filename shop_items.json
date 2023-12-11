@@ -1,0 +1,44 @@
+{
+    "Heart": {
+        "modifier": "health",
+        "amount": 15,
+        "mode": "addition",
+        "price": 10
+    },
+    "Shield": {
+        "modifier": "defense",
+        "amount": 5,
+        "mode": "addition",
+        "price": 10
+    },
+    "Sharpening Stone": {
+        "modifier": "critical damage",
+        "amount": 0.05,
+        "mode": "addition",
+        "price": 10
+    },
+    "Training Dummy": {
+        "modifier": "accuracy",
+        "amount": 0.005,
+        "mode": "addition",
+        "price": 20
+    },
+    "Glasses": {
+        "modifier": "critical chance",
+        "amount": 0.05,
+        "mode": "addition",
+        "price": 10
+    },
+    "Minor Book of Defense": {
+        "modifier": "minimum defense",
+        "amount": 1,
+        "mode": "addition",
+        "price": 15
+    },
+    "Major Book of Defense": {
+        "modifier": "maximum defense",
+        "amount": 1,
+        "mode": "addition",
+        "price": 15
+    }
+}

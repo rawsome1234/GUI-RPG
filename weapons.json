@@ -1,0 +1,363 @@
+{
+    "Firesword": {
+        "damage": 5,
+        "element": "fire",
+        "element_damage": 3,
+        "rarity": "uncommon",
+        "location": "random"
+    },
+    "Legendary Sword": {
+        "damage": 50,
+        "element": "none",
+        "element_damage": 0,
+        "rarity": "legendary",
+        "location": "shop",
+        "price": 120
+    },
+    "Baseball Bat": {
+        "damage": 4,
+        "element": "fire",
+        "element_damage": 3,
+        "rarity": "common",
+        "location": "random"
+    },
+    "Arch-Excalibur": {
+        "damage": 10,
+        "element": "shadow",
+        "element_damage": 5,
+        "rarity": "rare",
+        "location": 0
+    },
+    "Chair": {
+        "damage": 8,
+        "element": "bleed",
+        "element_damage": 3,
+        "rarity": "uncommon",
+        "location": 2
+    },
+    "Basic Sword": {
+        "damage": 3,
+        "element": "shock",
+        "element_damage": 1,
+        "rarity": "common",
+        "location": "random"
+    },
+    "Stick": {
+        "damage": 1,
+        "element": "earth",
+        "element_damage": 4,
+        "rarity": "common",
+        "location": "random"
+    },
+    "Enchanted Blade": {
+        "damage": 6,
+        "element": "bonus",
+        "element_damage": 4,
+        "rarity": "rare",
+        "location": "shop",
+        "price": 20
+    },
+    "Backpack": {
+        "damage": 4,
+        "element": "post-pressure",
+        "element_damage": 5,
+        "rarity": "uncommon",
+        "location": "random"
+    },
+    "Dagger": {
+        "damage": 6,
+        "element": "bleed",
+        "element_damage": 2,
+        "rarity": "uncommon",
+        "location": "random"
+    },
+    "Cactus Thorn": {
+        "damage": 8,
+        "element": "bleed",
+        "element_damage": 4,
+        "rarity": "uncommon",
+        "location": 1
+    },
+    "Blow Dart": {
+        "damage": 6,
+        "element": "poison",
+        "element_damage": 3,
+        "rarity": "uncommon",
+        "location": 0
+    },
+    "Fork": {
+        "damage": 3,
+        "element": "bleed",
+        "element_damage": 1,
+        "rarity": "common",
+        "location": "shop",
+        "price": 5
+    },
+    "Gun": {
+        "damage": 15,
+        "element": "bleed",
+        "element_damage": 6,
+        "rarity": "uncommon",
+        "location": "shop",
+        "price": 60
+    },
+    "Pair of Sneakers": {
+        "damage": 6,
+        "element": "hole",
+        "element_damage": 2,
+        "rarity": "common",
+        "location": "shop",
+        "price": 15
+    },
+    "Waterbending Sword": {
+        "damage": 2,
+        "element": "tsunami",
+        "element_damage": 7,
+        "rarity": "rare",
+        "location": 2
+    },
+    "Vampire Staff": {
+        "damage": 10,
+        "element": "shock",
+        "element_damage": 4,
+        "rarity": "uncommon",
+        "location": 3
+    },
+    "Stone Sword": {
+        "damage": 5,
+        "element": "bonus",
+        "element_damage": 3,
+        "rarity": 3,
+        "location": "common"
+    },
+    "Bag of Sand": {
+        "damage": 3,
+        "element": "eye",
+        "element_damage": 6,
+        "rarity": "common",
+        "location": 1
+    },
+    "Pitchfork": {
+        "damage": 10,
+        "element": "bleed",
+        "element_damage": 3,
+        "rarity": "common",
+        "location": 5
+    },
+    "Whip": {
+        "damage": 11,
+        "element": "stun",
+        "element_damage": 3,
+        "rarity": "uncommon",
+        "location": 5
+    },
+    "Troll Club": {
+        "damage": 8,
+        "element": "crush",
+        "element_damage": 3,
+        "rarity": "common",
+        "location": 4
+    },
+    "Frost Sword": {
+        "damage": 10,
+        "element": "ice",
+        "element_damage": 5,
+        "rarity": "uncommon",
+        "location": 4
+    },
+    "Seashell Sword": {
+        "damage": 5,
+        "element": "tsunami",
+        "element_damage": 9,
+        "rarity": "uncommon",
+        "location": 6
+    },
+    "Ocean's Grace": {
+        "damage": 13,
+        "element": "whirlpool",
+        "element_damage": 9,
+        "rarity": "rare",
+        "location": 6
+    },
+    "Seaglass Blade": {
+        "damage": 8,
+        "element": "bleed",
+        "element_damage": 5,
+        "rarity": "common",
+        "location": 6
+    },
+    "Bag of Rocks": {
+        "damage": 3,
+        "element": "rock",
+        "element_damage": 4,
+        "rarity": "common",
+        "location": "shop",
+        "price": 10
+    },
+    "Bow": {
+        "damage": 7,
+        "element": "none",
+        "element_damage": 0,
+        "rarity": "common",
+        "location": "shop",
+        "price": 13
+    },
+    "Enchanted Bow": {
+        "damage": 6,
+        "element": "piercing",
+        "element_damage": 5,
+        "rarity": "uncommon",
+        "location": "shop",
+        "price": 27
+    },
+    "Bow of Destruction": {
+        "damage": 20,
+        "element": "explosion",
+        "element_damage": 20,
+        "rarity": "rare",
+        "location": "shop",
+        "price": 80
+    },
+    "Sacred Blade": {
+        "damage": 40,
+        "element": "magic",
+        "element_damage": 40,
+        "rarity": "legendary",
+        "location": "shop",
+        "price": 200
+    },
+    "Nunchucks": {
+        "damage": 12,
+        "element": "blow",
+        "element_damage": 3,
+        "rarity": "uncommon",
+        "location": "shop",
+        "price": 25
+    },
+    "Trench Bow": {
+        "damage": 15,
+        "element": "water",
+        "element_damage": 10,
+        "rarity": "uncommon",
+        "location": 8
+    },
+    "Sand Sword": {
+        "damage": 13,
+        "element": "none",
+        "element_damage": 0,
+        "rarity": "common",
+        "location": 8
+    },
+    "Siren's Sword": {
+        "damage": 25,
+        "element": "hypnosis",
+        "element_damage": 5,
+        "rarity": "legendary",
+        "location": 8
+    },
+    "Entangled Sword": {
+        "damage": 10,
+        "element": "bind",
+        "element_damage": 7,
+        "rarity": "common",
+        "location": 7
+    },
+    "Beak Sword": {
+        "damage": 17,
+        "element": "bleed",
+        "element_damage": 8,
+        "rarity": "rare",
+        "location": 7
+    },
+    "Pirahna Shooter": {
+        "damage": 25,
+        "element": "pirahna",
+        "element_damage": 13,
+        "rarity": "legendary",
+        "location": 7
+    },
+    "Sword of Prey": {
+        "damage": 8,
+        "element": "defending",
+        "element_damage": 15,
+        "rarity": "common",
+        "location": 10
+    },
+    "Sword of Predator": {
+        "damage": 15,
+        "element": "bleed",
+        "element_damage": 8,
+        "rarity": "uncommon",
+        "location": 10
+    },
+    "Longsword": {
+        "damage": 19,
+        "element": "amputation",
+        "element_damage": 9,
+        "rarity": "rare",
+        "location": 10
+    },
+    "Cloud Sword": {
+        "damage": 19,
+        "element": "tickle",
+        "element_damage": 7,
+        "rarity": "common",
+        "location": 11
+    },
+    "Thunder Bow": {
+        "damage": 20,
+        "element": "lightning",
+        "element_damage": 8,
+        "rarity": "uncommon",
+        "location": 11
+    },
+    "Lightning Mage Spellbook": {
+        "damage": 24,
+        "element": "thunder",
+        "element_damage": 14,
+        "rarity": "common",
+        "location": 11
+    },
+    "Mechanical Sword": {
+        "damage": 20,
+        "element": "bleed",
+        "element_damage": 11,
+        "rarity": "uncommon",
+        "location": 12
+    },
+    "Mechanical Bow": {
+        "damage": 24,
+        "element": "bleed",
+        "element_damage": 9,
+        "rarity": "uncommon",
+        "location": 12
+    },
+    "Mechanical Dog Mouth": {
+        "damage": 27,
+        "element": "tear",
+        "element_damage": 17,
+        "rarity": "legendary",
+        "location": 12
+    },
+    "Snowy Bow": {
+        "damage": 17,
+        "element": "freeze",
+        "element_damage": 5,
+        "rarity": "uncommon",
+        "location": 9
+    },
+    "Snowman's Glove": {
+        "damage": 20,
+        "element": "blunt",
+        "element_damage": 13,
+        "rarity": "legendary",
+        "location": 9
+    },
+    "Narwal Horn": {
+        "damage": 13,
+        "element": "bleed",
+        "element_damage": 8,
+        "rarity": "common",
+        "location": 9
+    }
+}
